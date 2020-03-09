@@ -3,15 +3,19 @@
   When looking at trends, it is very simple to distinguish what you are seeing when the visual is something like a pie chart or a bar graph. The pie chart would show a percentage of something, whereas the bar graph would show information being compared to each other. This is great for showing basic ideas, but in the digital humanities, it's all about thinking and innovating. This leads to more complicated variations of visualizations, one needs to be able to show large amounts of quantitative data while still being able to show clarity. Drucker’s graphs for this idea were useful for what they were trying to show. For example, the graph about demographics of males and females in a country. Drucker showed deeper information, such as adoptions, gender changes, and whatnot. It then started talking about graphing subjective data, which doesn’t make sense because data must remain coherent to remain viable. Subjective data isn’t graphable because it’s entirely personal, and personal feelings or ideas can change at any time, making the recorded data irrelevant. Sure, graphing something such as time is possible because time as we know it moves only in one direction and cannot be altered, so it would be possible to collect data such as that. When Drucker talks about mapping spatiality after a certain event has occurred, in this case a ship crashing, the topography of the beach would change. Yes, originally it would stay the same for a certain amount of time. The wood could rot and fade away, waves could shift the boat entirely, and the recorded data would no longer be correct. This is the problem with graphing qualitative data, there is no guarantee that it will be consistent. These images show the amount of certain words used the most. 
   
   
-  <!--	Exported from Voyant Tools (voyant-tools.org).
+<!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
 http and https sites, but if you're embedding this into a local web page (file protocol)
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 477px; height: 342px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=e17331021d374c865030392c62108811'></iframe>
-  
 
+<!--
+<iframe style='width: 1440px; height: 638px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&corpus=e17331021d374c865030392c62108811'></iframe>
+-->
+
+<iframe style="width: 730; height: 1010px;" src="processing/index.html"></iframe>
+  
 
 On the left is Moretti, and on the right is Drucker. Besides the obvious words used in the essays, the main words for Moretti are genres, new, novels, english, and years to name a few. These are all quantitative words, can be tracked and represented accurately through various kinds of media. Drucker on the other hand, besides words like graphical and information which are littered throughout the essay, the main words are interpretation, temporal, experience, data, space, time and subjective, amongst others. A lot of these are qualitative data, which is harder to graph because it has no physicality, and is subjective. It is for this reason why I think Moretti’s approach to showing graphs is better than Druckers. 
 
@@ -23,8 +27,11 @@ On the left is Moretti, and on the right is Drucker. Besides the obvious words u
 Works Cited
 
 Drucker, Johanna. “Humanities Approaches to Graphical Display.” DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+
 Moretti, Franco. Graphs, Maps, Trees - Abstract Models For Literary History. www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf.
+
 Sinclair, Stéfan, et al. “Literary Studies in the Digital Age.” Information Visualization for Humanities Scholars, 2013, dlsanthology.mla.hcommons.org/information-visualization-for-humanities-scholars/.
+
 “Voyant Tools.” Voyant Tools, voyant-tools.org/.
 
 
