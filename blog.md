@@ -17,7 +17,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 477px; height: 372px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=6cd29f80b9c0f1e1b4b3fb5869eaa0ff'></iframe>
+<iframe style='width: 1440px; height: 687px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&corpus=6cd29f80b9c0f1e1b4b3fb5869eaa0ff'></iframe>
 
   
 The first link is Moretti, and the second is Drucker. Besides the obvious words used in the essays, the main words for Moretti are genres, new, novels, english, and years to name a few. These are all quantitative words, can be tracked and represented accurately through various kinds of media. Drucker on the other hand, besides words like graphical and information which are littered throughout the essay, the main words are interpretation, temporal, experience, data, space, time and subjective, amongst others. A lot of these are qualitative data, which is harder to graph because it has no physicality, and is subjective. It is for this reason why I think Moretti’s approach to showing graphs is better than Druckers. 
