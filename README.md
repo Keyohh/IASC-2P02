@@ -4,7 +4,7 @@
 
 I am a 3rd year GAME Student who is transferring into IASC. I enjoy playing video games, working out, and hanging out with friends. This is my page, enjoy it or else. 
 
-![](/Users/boggy/Desktop/spider.jpg)
+![](spider.jpg)
 
 ## Blog post
 
