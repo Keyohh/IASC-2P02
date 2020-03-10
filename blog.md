@@ -37,7 +37,7 @@ Moretti, Franco. Graphs, Maps, Trees - Abstract Models For Literary History. www
 
 Sinclair, Stéfan, et al. “Literary Studies in the Digital Age.” Information Visualization for Humanities Scholars, 2013, dlsanthology.mla.hcommons.org/information-visualization-for-humanities-scholars/.
 
-“Voyant Tools.” Voyant Tools, voyant-tools.org/.
+“Voyant Tools.” Voyant Tools, voyant-tools.org/. 
 
 
 
